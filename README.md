@@ -18,12 +18,14 @@
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/halid-faruk-2436b531a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/halid-faruk-2436b531a" height="30" width="40" /></a>
 <a href="https://instagram.com/halid_jr7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="halid_jr7" height="30" width="40" /></a>
+  
 <a href="https://t.me/Anon6134" target="_blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/telegram.svg" 
-       alt="Anon6134" height="30" width="40" />
+  <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg" 
+       alt="Anon6134" height="30" width="30" />
 </a>
 
-  
+
+ 
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
